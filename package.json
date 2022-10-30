@@ -1,0 +1,8 @@
+{
+  "name": "repo",
+  "packageManager": "yarn@3.2.4",
+  "type": "module",
+  "dependencies": {
+    "pixi.js": "^7.0.0"
+  }
+}
